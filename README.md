@@ -9,7 +9,7 @@ Usually, I create a new script everyday, scripts for dealing with everything in 
 
 Hope my scripts gets you inspired at your work, or even makes you jealous and port them, enhance them, or even create your own ideas.
 
-Each script i create a directory with script and it's all info in , put it in following table with today's date, and tweet script on  [@MuhammedShokr](https://twitter.com/Mbjtechnologies) , Post on  [linkedin](https://www.linkedin.com/in/mbjtechnologies/).
+Each script i create a directory with script and it's all info in , put it in following table with today's date, and tweet script on  [@Mbjtechnologies](https://twitter.com/Mbjtechnologies) , Post on  [linkedin](https://www.linkedin.com/in/mbjtechnologies/).
 
 
 ## Table Of Content
